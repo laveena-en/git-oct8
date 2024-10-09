@@ -44,6 +44,10 @@
     {
       "id": "Page7",
       "isDefault": false
+    },
+    {
+      "id": "Page8",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
